@@ -1,6 +1,6 @@
 # Node-Farm
 
-![Node-Farm screenshot]([insert_logo_here.png](https://github.com/madgrv/Node-Farm/blob/main/Screenshot%202023-07-22%20at%2010.29.17.png)) 
+![Node-Farm screenshot](https://github.com/madgrv/Node-Farm/blob/main/Screenshot%202023-07-22%20at%2010.29.17.png)
 
 ## About
 
